@@ -1,11 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+
 
 
 
@@ -786,6 +787,11 @@ h6,
 }
 #header1-1 .mbr-section-lead SPAN {
   color: #ffffff;
+}
+#header1-1 .mbr-section-title I {
+  font-family: 'Roboto Slab', serif;
+  color: #0622bf;
+  font-size: 80px;
 }
 #msg-box8-70 .mbr-section-title,
 #msg-box8-70 p {
@@ -1715,7 +1721,7 @@ h6,
 
 
 #features1-9q .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #d14841;
+  background-color: #eaeaea;
 }
 #features1-9q .mbr-cards-col:nth-child(odd) .card-title {
   color: #000000;
@@ -2242,7 +2248,10 @@ h6,
   color: #3d8eb9;
 }
 
-
+#header3-a8 .mbr-section-title,
+#header3-a8 .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-9m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2313,15 +2322,6 @@ h6,
 #menu-9m A {
   font-size: 16px;
   font-family: 'Oxygen', sans-serif;
-}
-#extHeader17-a5 H3 {
-  color: #d13221;
-}
-#extHeader17-a5 P {
-  text-align: left;
-  font-size: 24px;
-  color: #ffffff;
-  font-family: 'Droid Serif', serif;
 }
 #contacts3-9o .list-group-text {
   text-align: left;
