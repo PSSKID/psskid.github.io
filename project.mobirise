@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "palldiumsecurity.ca.html",
+    "currentPage": "page15.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 374,
+    "uniqCompNum": 378,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
@@ -81,10 +81,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -96,16 +96,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#0a090a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#121012"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -125,7 +125,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -139,13 +139,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -187,7 +187,7 @@
             ".mbr-section-title I": {
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "color": "#0622bf",
+              "color": "#ffffff",
               "font-size": "80px"
             }
           },
@@ -209,7 +209,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.5"
           },
           "title": "<br><i>Welcome to <br>Palladium Security</i>",
           "text": "<br>We have been protecting homes and businesses in your community since 1992&nbsp;<br>Palladium is dedicated to providing the absolute best in security solutions, products and monitoring services in the industry. <br><br> We invite you to browse our site for more information and feel free to contact us with any questions.",
@@ -397,7 +397,7 @@
       "settings": {
         "title": "Residential New Install",
         "meta_descr": "New Installations of Security Systems and Services",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -409,10 +409,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -424,16 +424,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -453,7 +453,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -467,13 +467,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -992,7 +992,7 @@
       "settings": {
         "title": "About Us",
         "meta_descr": "information on the use and benifets of our secure clint hub portal",
-        "order": 17
+        "order": 15
       },
       "components": [
         {
@@ -1072,10 +1072,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -1087,16 +1087,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1116,7 +1116,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -1130,13 +1130,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -1303,7 +1303,7 @@
       "settings": {
         "title": "Product Videos",
         "meta_descr": "Clients that require upgrading or repair of there home security system",
-        "order": 8,
+        "order": 9,
         "header_custom": ""
       },
       "components": [
@@ -1580,10 +1580,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -1595,16 +1595,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1624,7 +1624,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -1638,13 +1638,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -1811,7 +1811,7 @@
       "settings": {
         "title": "Palladium Monitoring Services",
         "meta_descr": "Monitoring security systems via ULC listed stattions",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -1823,10 +1823,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -1838,16 +1838,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1867,7 +1867,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -1881,13 +1881,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2167,7 +2167,7 @@
       "settings": {
         "title": "Police Response Policies",
         "meta_descr": "How authorities respond to the security system activation.",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2240,10 +2240,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -2255,16 +2255,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2284,7 +2284,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -2298,13 +2298,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2513,7 +2513,7 @@
       "settings": {
         "title": "Palladium Interactive Services",
         "meta_descr": "New Installations of Security Systems and Services for integrating smart home mobile device control",
-        "order": 6,
+        "order": 7,
         "html_before": ""
       },
       "components": [
@@ -2526,10 +2526,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -2541,16 +2541,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2570,7 +2570,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -2584,13 +2584,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3229,7 +3229,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Under Construction",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -3292,10 +3292,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -3307,16 +3307,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3336,7 +3336,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -3349,13 +3349,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3522,7 +3522,7 @@
       "settings": {
         "title": "Residential Existing",
         "meta_descr": "I own my security system",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3534,10 +3534,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -3549,16 +3549,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3578,7 +3578,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -3591,13 +3591,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3679,7 +3679,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#cccccc"
+            "bgColor": "#ffffff"
           },
           "text": "<p>If you are considering a new security system for your home for the first time, you can be rest assured that Palladium will put its 23 years of security industry experience to work for you. Palladium offers the latest in security system technology and you can take advantage of the savings and bundles offered exclusively through Palladium Security.</p><p><br></p><p>Customized Security Solutions to Meet Your Specific Requirments.&nbsp;</p><p><br></p><p>At Palladium, our goal is to ensure that we deliver exactly the kind of security for your home that will meet your specific needs. We recognize that no two homes are exactly the same and every home owner has different expectations of what they would like their security system to do for their families.</p><p><br></p><p>A security expert will arrange a convenient time to visit your premises to do a complete security analysis to address any specific challenges that need to be addressed as well as to access your specific security requirements for your family.&nbsp;</p><p><br></p><p>We will then provide you with a written customized and detailed proposal outlining all our recommendations and options including the type of security system, number of sensors, door contacts, monitoring, keypads, etc. along with optional upgrades to further enhance your security protection.</p><p><br></p><p>To get started with a FREE complimentary security analysis of your home, give us a call or fill in our convenient form and our security expert will contact you to arrange a time. <a href=\"about_Us.html\">Click here to contact us</a>!   Give us a call and start saving!.</p>",
           "_styles": {
@@ -3817,7 +3817,7 @@
       "settings": {
         "title": "Security Home Page",
         "meta_descr": "Security introduction page for both residential and commercial security.",
-        "order": 1,
+        "order": 2,
         "header_custom": ""
       },
       "components": [
@@ -3995,10 +3995,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -4010,16 +4010,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4039,7 +4039,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -4052,13 +4052,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4431,7 +4431,7 @@
       "settings": {
         "title": "Authorized Monitoring Stations",
         "meta_descr": "New Installations of Security Systems and Services",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -4443,10 +4443,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -4458,16 +4458,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4487,7 +4487,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -4500,13 +4500,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -5066,7 +5066,7 @@
       "settings": {
         "title": "Business Security",
         "meta_descr": "New Installations of Security Systems and Services",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -5078,10 +5078,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -5093,16 +5093,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -5122,7 +5122,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -5135,13 +5135,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -5585,7 +5585,7 @@
       "settings": {
         "title": "Residential Home",
         "meta_descr": "security alarm systems for residential installations",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -5597,10 +5597,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -5612,16 +5612,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -5641,7 +5641,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -5655,13 +5655,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -5744,7 +5744,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Palladium Security can help you find a solution to either update your current security system or install a completely new integrated system in your home.</p><p><br></p><p>  \n</p><p>\n</p><p>We understand that every home owner requires different level of security, so we try not to offer a one size fits all solution. Over the last 25 years we have had clients request everything from basic door and motion coverage to complete perimeter, interior intrusion detection as well as carbon monoxide and fire.  We will talk to you to determine the level of security you require and then come to a solution of the best possible product that will fit your needs.  Click on the<a href=\"Residential_New_Install.html\"> new security system </a>link below for more details</p><p><br></p><p> \n</p><p>\n</p><p>If you already have a system and are thinking of upgrading, we will come and inspect your system to see if your current system is able to be simply updated to meet your requirements.  In some cases, security systems manufactured in the last 10 years will be able to have some smart home features added at minimal cost.  Click on the<a href=\"Residential Existing.html\"> Existing system</a> link below for more details. \n</p><p>\n</p><p><br></p>",
+          "text": "<p>Palladium Security can help you find a solution to either update your current security system or install a completely new integrated system in your home.</p><p><br></p><p>  \n</p><p>\n</p><p>We understand that every home owner requires different level of security, so we try not to offer a one size fits all solution. &nbsp;Since 1992, &nbsp;we have had clients request everything from basic door and motion coverage to complete perimeter, interior intrusion detection as well as carbon monoxide and fire.  We will talk to you to determine the level of security you require and then come to a solution of the best possible product that will fit your needs.  Click on the<a href=\"Residential_New_Install.html\"> new security system </a>link below for more details</p><p><br></p><p> \n</p><p>\n</p><p>If you already have a system and are thinking of upgrading, we will come and inspect your system to see if your current system is able to be simply updated to meet your requirements.  In some cases, security systems manufactured in the last 10 years will be able to have some smart home features added at minimal cost.  Click on the<a href=\"Residential Existing.html\"> Existing system</a> link below for more details. \n</p><p>\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -5763,7 +5763,8 @@
               "font-size": "20px",
               "text-align": "left"
             }
-          }
+          },
+          "_customCSS": ""
         },
         {
           "_params": {
@@ -5906,7 +5907,7 @@
       "settings": {
         "meta_descr": "information on the use and benifets of our secure clint hub portal",
         "title": "Hub Info",
-        "order": 16,
+        "order": 14,
         "header_custom": "",
         "footer_custom": ""
       },
@@ -5920,10 +5921,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -5935,16 +5936,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -5964,7 +5965,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -5977,13 +5978,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -6227,7 +6228,7 @@
       "settings": {
         "title": "Training VIdeos",
         "meta_descr": "instructional videos on using your security system",
-        "order": 9,
+        "order": 10,
         "header_custom": ""
       },
       "components": [
@@ -6283,10 +6284,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#eaeaea"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -6298,16 +6299,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#eaeaea",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -6327,7 +6328,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#eaeaea"
             },
             "A": {
               "font-size": "16px",
@@ -6340,13 +6341,13 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#121012",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#eaeaea",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -6686,6 +6687,304 @@
             }
           },
           "_anchor": "contacts3-9w"
+        }
+      ]
+    },
+    "page15.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Page 15",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#eaeaea"
+            },
+            ".link, .dropdown-item": {
+              "color": "#eaeaea"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#0a090a!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#121012"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#eaeaea",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#1634dd!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#eaeaea"
+            },
+            "A": {
+              "font-size": "16px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#121012",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#eaeaea",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-529x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "palldiumsecurity.ca.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"palldiumsecurity.ca.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Security&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Security Main Splash.html\" aria-expanded=\"false\">General Information</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Residtential</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Residential_Home.html\">Residential Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Residential Existing.html\">I have a system</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Residential_New_Install.html\" aria-expanded=\"false\">I need a new system</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Commercial</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Business_Security.html\">Home Page (Business)</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page12.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Responce Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Monitoring Stations<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Response.html\" aria-expanded=\"false\">False Alarm Policies</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Product VIdeos.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Product Videos</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Instructional_Videos.html\" aria-expanded=\"false\">Instructional Videos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product VIdeos.html\" aria-expanded=\"false\">Product Videos</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.palladiumsecurity.ca/onlinepayment.html\">Payment Current</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0.00&amp;item_name=Monitoring+Services&amp;currency_code=CAD\" target=\"_blank\">Payments New</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://client.palladiumsecurity.ca/\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about_Us.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" style=\"background-color: rgb(239, 239, 239); display: inline !important;\"><br></a><br></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ULC Monitoring Station.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.clienthubs.com\" target=\"_blank\"></a></li>",
+          "_anchor": "menu-ae"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_anchor": "footer1-af"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "palladium29@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-ah",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            ".list-group-text": {
+              "text-align": "left",
+              "color": "#2969b0"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#efefef"
+            },
+            "H4": {
+              "text-align": "left",
+              "font-size": "20px"
+            },
+            "UL": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "font-size": "20px"
+            },
+            "LI": {
+              "color": "#3d8eb9"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-265x64.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "mailto:service@palladiumsecurity.ca",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "",
+          "title1": "Categories",
+          "text5": "<li><i><a href=\"Under_Construction.html\">Business Security Solutions</a></i></li><li><a href=\"Residential Home.html\">&nbsp;Residential Security Solutions</a></li><li><a href=\"ULC Monitoring Station.html\">ULC Monitoring Stationsl</a></li><li><a href=\"Product VIdeos.html\">Product Videos</a></li><li><a href=\"Commercial Interactive.html\">Interactive Solutions</a></li><li><a href=\"about_Us.html\">About Us</a></li>",
+          "text6": "<strong><a href=\"mailto:service@palladiumsecurity.ca\">Contacts</a></strong><br><a href=\"mailto:service@palladiumsecurity.ca\">Click here for&nbsp;Email:&nbsp;</a><br><a href=\"mailto:service@palladiumsecurity.ca\"><br>Phone: 905-522-2007</a><br><br><br><a href=\"mailto:service@palladiumsecurity.ca\">27 Legend Court</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Suite 10151</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ancaster</a><br><a href=\"mailto:service@palladiumsecurity.ca\">Ontario</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "palladium29@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "_anchor": "contacts3-ag"
         }
       ]
     }
