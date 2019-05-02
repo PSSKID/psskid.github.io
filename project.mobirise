@@ -213,7 +213,7 @@
           },
           "title": "<br><i>Welcome to <br>Palladium Security</i>",
           "text": "<br>We have been protecting homes and businesses in your community since 1992&nbsp;<br>Palladium is dedicated to providing the absolute best in security solutions, products and monitoring services in the industry. <br><br> We invite you to browse our site for more information and feel free to contact us with any questions.",
-          "buttons": "      <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Security Main Splash.html\" data-toolbar=\"-mbrBtnMove\">Security Services</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Response.html\" data-toolbar=\"-mbrBtnMove\">False Alarm \n<br>Polices</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about_Us.html\" data-toolbar=\"-mbrBtnMove\">About Us</a> "
+          "buttons": "      <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Security Main Splash.html\" data-toolbar=\"-mbrBtnMove\">Security <br>Services</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Response.html\" data-toolbar=\"-mbrBtnMove\">False Alarm \n<br>Polices</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about_Us.html\" data-toolbar=\"-mbrBtnMove\">About <br>Us</a> "
         },
         {
           "_styles": {
