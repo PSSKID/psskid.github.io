@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 374,
+    "uniqCompNum": 379,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
@@ -6875,7 +6875,7 @@
           },
           "title": "RSPNDR",
           "text": "Palladium Security has teamed up with RSPNDR to provide the best possible guard response service in the industry. <br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page15.html#content1-aj\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page15.html#content1-aj\" data-toolbar=\"-mbrBtnMove\">How It Works</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"guard_response.html#header3-ag\" data-toolbar=\"-mbrBtnMove\">Ease Of Use</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"guard_response.html#header3-ai\" data-toolbar=\"-mbrBtnMove\">Police Vs Guard</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"guard_response.html#extFeatures8-am\" data-toolbar=\"-mbrBtnMove\">How It Works</a>",
           "_tags": [
             "Theme"
           ],
@@ -6883,12 +6883,98 @@
           "_anchor": "header6-ai"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Ease of Use",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-ag"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>The RSPNDR app directly connects central station dispatching to mobile responders. One clik to dispatch, on tap to accept. RSPNDR locaates the closest mobile guard in seconds, directs them to the incident and facilitates the completion of a detailed report. &nbsp;all in real time.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ah",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": "4",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rspndr-1400x293.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-af"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Police vs Guard Response",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-ai"
+        },
+        {
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "3",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "text": "<p>\n</p><p>Police alarm response over the years has been deprioritized due to the high percentage of false alarms within the security industry. Most false alarms are caused by user error and in some cases improper installation of detection devices by installers that are not properly trained. This results in the regional police forces placing alarm services at the lower priority or not responding at all.</p><p><br></p><p>\n</p><p>\n</p><p>This lower priority means that if you have an actual emergency, the response by the police may be longer then an acceptable timeframe. The police will usually respond faster if the they have a verified personal injury alarm.</p><p><br></p><p>\n</p><p>\n</p><p>The importance of RSPNDR has never been more critical. You can now benefit from this new platform with faster response time, verified perimeter checks of our premises and a detailed report with response times.\n</p><p><br></p><p><br></p>",
+          "text": "<p>\n</p><p>Police alarm response over the years has been deprioritized due to the high percentage of false alarms within the security industry. Most false alarms are caused by user error and in some cases improper installation of detection devices by installers that are not properly trained. This results in the regional police forces placing alarm services at the lower priority or not responding at all.</p><p><br></p><p>\n</p><p>\n</p><p>This lower priority means that if you have an actual emergency, the response by the police may be longer then an acceptable timeframe. The police will usually respond faster if the they have a verified personal injury alarm.</p><p><br></p><p>\n</p><p>\n</p><p>The importance of RSPNDR has never been more critical. You can now benefit from this new platform with faster response time, verified perimeter checks of our premises and a detailed report with response times.\n</p><p><br></p><p><a href=\"guard_response.html\">BACK TO TOP</a>&nbsp;</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -7025,7 +7111,7 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",

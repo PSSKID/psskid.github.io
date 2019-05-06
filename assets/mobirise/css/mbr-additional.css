@@ -2499,6 +2499,17 @@ h6,
   color: #ffffff;
   font-size: 22px;
 }
+#header3-ag .mbr-section-title,
+#header3-ag .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-ah P {
+  font-size: 20px;
+}
+#header3-ai .mbr-section-title,
+#header3-ai .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-ae .hide-buttons .nav-btn {
   display: none !important;
 }
