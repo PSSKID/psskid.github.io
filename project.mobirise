@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page15.html",
+    "currentPage": "guard_response.html",
     "name": "Palladium",
     "theme": {
       "name": "mobirise3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#232323",
-        "#0b0009",
         "#eaeaea",
         "#0622bf",
         "#0d0c0d",
         "#f1e1e1",
-        "#1634dd"
+        "#1634dd",
+        "#be9e1d",
+        "#030203"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 385,
+    "uniqCompNum": 374,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
@@ -672,7 +672,7 @@
             }
           },
           "title": "ULC Monitoring Services",
-          "text": "Palladium Security Authorized Stations Operate in 6 separate locations that are linked together at all times. Located across Canada, these six stations are each capable of operating in a stand-alone mode or as is normally the case, as part of our inter-connected network.",
+          "text": "Palladium Security Authorized Stations Operate in 6 separate locations that are always linked together. Located across Canada, these six stations are each capable of operating in a stand-alone mode or as is normally the case, as part of our inter-connected network.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\">Mointoring Centre</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to top</a>",
           "_tags": [
             "Theme"
@@ -790,7 +790,7 @@
             }
           },
           "title": "Carbon Monoxide",
-          "text": "Carbon monoxide is not detectable by any of the human scences. &nbsp;This colourless and odourless gas can be fatal when inhaled over a long period of time. &nbsp;If you have any wood burning stoves, gas furnace / gas stove or fire place in your home. &nbsp;A carbon monoxide detector is an essential part of your family protection. &nbsp;",
+          "text": "Carbon monoxide is not detectable by any of the human senses.  This colorless and odorless gas can be fatal when inhaled over a long period of time.  If you have any wood burning stoves, gas furnace / gas stove or fire place in your home.  A carbon monoxide detector is an essential part of your family protection.  ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to top</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.cdc.gov/co/faqs.htm\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">What to look for</a> ",
           "_tags": [
             "Theme"
@@ -851,7 +851,7 @@
             }
           },
           "title": "Low Temperature Detectors",
-          "text": "One thing people dont think about when they travel in the winter months is what will happen if my furnace fails while im gone? &nbsp;In cold weather climates the chances of a furnace failing is a real issue. &nbsp;While you are enjoying the sun on vacation, the furnace in your home may fail thus causing the water pipes to burst as well as damage to walls and paint. &nbsp;Most of our system have a low temeperature detector bulit in to the keypads. &nbsp;Ask us for details. &nbsp;",
+          "text": "For greater peace-of-mind and security, Palladium Security can include wireless smoke detectors to any existing or new security system for added fire protection. \n<br>\n<br>One thing people don’t think about when they travel in the winter months is what will happen if my furnace fails while I’m gone?  In cold weather climates the chances of a furnace failing is a real issue.  While you are enjoying the sun on vacation, the furnace in your home may fail thus causing the water pipes to burst as well as damage to walls and paint.  Most of our systems have a low temperature detector built in to the keypads.  Ask us for details. &nbsp;&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">back to top</a>",
           "_tags": [
             "Theme"
@@ -992,7 +992,7 @@
       "settings": {
         "title": "About Us",
         "meta_descr": "information on the use and benifets of our secure clint hub portal",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -1055,7 +1055,7 @@
             }
           },
           "title": "About Us",
-          "text": "Palladium is a Canadian-owned and operated security provider located in the Greater Toronto Area and serving homes and businesses in South-Western Ontario From the Niagara area to Oshawa including Hamilton, Burlington, Oakville, Mississauga, and Toronto. We have been servicing a long list of clients for the past 20 years and we install only top quality security systems from manufacturers including GE, DSC and Paradox with the service to match.\n<br><br>Historical Roots..\n<br><br><b>Palladium - \"The Protector\" Since 1992</b><br>\n<br>In ancient Greek mythology, Palladium, a synonym of the word security, was thought to be a sacred image of Athena and kept in the Temple of Athena in Troy. Legend has it that the image was sent by Zeus to Dardanus, the founder of Troy, and it was believed that the city could not be taken while it possessed the \"Palladium\". Thus, during the Trojan war, two Greeks named Diomed and Odysseus stole the image and then Troy was taken a short time later. <br><br>Palladium has come to symbolize \"The Protector\".<br>\n<br>",
+          "text": "Palladium is a Canadian-owned and operated security provider located in the Greater Toronto Area and serving homes and businesses in South-Western Ontario From the Niagara area to Oshawa including Hamilton, Burlington, Oakville, Mississauga, and Toronto. We have been servicing a long list of clients for the past 20 years and we install only top-quality security systems from manufacturers including GE, DSC and Paradox with the service to match. Palladium is a Canadian-owned and operated security provider&nbsp;<br><br>Historical Roots..\n<br><br><b>Palladium - \"The Protector\" Since 1992</b><br>\n<br>In ancient Greek mythology, Palladium, a synonym of the word security, was thought to be a sacred image of Athena and kept in the Temple of Athena in Troy. Legend has it that the image was sent by Zeus to Dardanus, the founder of Troy, and it was believed that the city could not be taken while it possessed the \"Palladium\". Thus, during the Trojan war, two Greeks named Diomed and Odysseus stole the image and then Troy was taken a short time later. <br><br>Palladium has come to symbolize \"The Protector\".<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"palldiumsecurity.ca.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"palldiumsecurity.ca.html\" data-toolbar=\"-mbrBtnMove\">Security Solutions</a>",
           "_tags": [
             "Theme"
@@ -1093,7 +1093,7 @@
               "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#0b0009"
             },
             ".bg-color.transparent .link": {
               "color": "#eaeaea",
@@ -1841,10 +1841,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0a090a!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#121012"
+              "background": "#0b0009"
             },
             ".bg-color.transparent .link": {
               "color": "#eaeaea",
@@ -1964,6 +1964,26 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Security Solutions</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Integration.html\" data-toolbar=\"-mbrBtnMove\">Integration Solutions</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "6 Monitoring Stations Across Canada",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-ap"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1976,7 +1996,8 @@
               "text-align": "left"
             },
             "H1": {
-              "color": "#2969b0"
+              "color": "#000000",
+              "font-size": "20px"
             },
             "UL": {
               "text-align": "left"
@@ -1986,9 +2007,79 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "3",
-            "bgColor": "#cccccc"
+            "bgColor": "#ffffff"
           },
-          "text": "<h1>6 Locations Across Canada</h1><h4>Palladium Security Authorized Stations Operate in          6 separate monitoring stations that are linked together at all times. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network</h4><ul><li><span style=\"font-size: 1.07rem; text-align: center; line-height: 1.5;\">Six state of the art Monitoring Stations across our great Nation that we – and</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;you – can be proud of.&nbsp;</span></li></ul><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">All stations in our network are constantly being upgraded and improved.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our technology is such that information is constantly shared amongst the SIX&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">stations AT ALL TIMES!&nbsp;</span></li></ul><ul><li>Operators working in our 6 stations, see EVERY alarm signal in real time and no<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;matter where the operator is sitting, he/she can handle the alarm.</span></li></ul><ul><li>All our stations are housed in secure, controlled environments, protected<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;behind double vestibules and an array of security measures.&nbsp;</span></li></ul><ul><li>All stations are powered by surge suppressed, power management systems&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">with industrial strength generators to ensure uninterrupted station operation.</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our network of stations was designed to stay operational in any weather&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">conditions, including, ice storms, floods, major power outages, fires and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">hurricanes.&nbsp;</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">A professional team of highly trained technicians constantly monitor our&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">stations and their systems 24/7/365 to guarantee smooth operation of our&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">facilities.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">All our stations have dual tracking redundant telephone systems.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">All workstations are digitally recorded.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our phone systems are interlinked at all times between stations.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Any incoming call can be answered in any of our 6 monitoring stations.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Calls can be tracked in real time</span></li></ul><div style=\"text-align: left;\"><br></div><h4>Because of the nature of our business – and yours – we realize the need to be ready for most any crisis situation. Accordingly, we have on-hand at any time, sufficient emergency supplies to allow us to provide continuous service in all circumstances. These provisions include:</h4><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">• Generators</span><br></p><p>• A selection of APC 5kw Uninterruptible Power Supplies</p><p>• Enough Receivers and equipment in stock to deploy a new station.</p><p>• Over 2000 litres of diesel fuel.</p><p>• Emergency supplies (including protective clothing, food and beverage supplies,<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;blankets, cots and more).</span></p>OUR EMERGENCY RESPONSE VEHICLE<div><br></div><h4>Experience has taught us to be prepared at all times. Accordingly, Lanvac owns and operates a fully equipped, diesel-powered 14-foot cube van filled with everything that might be needed in the event of an emergency at one of our stations. This vehicle is always ready to go on a minutes notice.</h4><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Besides the standard equipment for such a vehicle, ours features:</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">• Dual Heavy Duty 175 amp alternators.</span><br></div><div>• Dual 3 KW power inverters.</div><div>• An extra 100-litre diesel storage tank.</div><div>• 5kw Diesel Generator</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Amongst the supplies it contains are:</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">• 2 High-speed, high-volume water pumps that can handle any threatened flood</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;threat.</span><br></div><div>• A full supply of hand tools and power tools.</div><div>• Spare telephone equipment.</div><div>• Spare receiver equipment.</div><div>• Extra laptop computers.</div><div>• Emergency clothing such as vests, gloves, breathing masks, hard hats and<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;safety boots.</span></div><div><p><br></p></div>"
+          "text": "<h1>Palladium Security Authorized Stations Operate in 6 separate geographical locations that are always linked together. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network&nbsp;<br></h1><div><span style=\"font-weight: normal;\">•\tSix state of the art Monitoring Stations across our great Nation that we – and you – can be proud of.</span></div><div><span style=\"font-weight: normal;\">•\tAll stations in our network are constantly being upgraded and improved.</span></div><div><span style=\"font-weight: normal;\">•\tOur technology is such that information is ALWAYS constantly shared amongst the SIX stations!</span></div><div><span style=\"font-weight: normal;\">•\tOperators working in our 6 stations, see EVERY alarm signal in real time and no matter where the operator is sitting, he/she can handle the &nbsp; &nbsp; &nbsp;alarm.</span></div><div><span style=\"font-weight: normal;\">•\tAll our stations are housed in secure, controlled environments, protected behind double vestibules and an array of security measures. </span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">•\tAll stations are powered by surge suppressed, power management systems with industrial strength generators to ensure uninterrupted station operation.</span></div><div><span style=\"font-weight: normal;\">•\tOur network of stations was designed to stay operational in any weather conditions, including, ice storms, floods, major power outages, fires and hurricanes.</span></div><div><span style=\"font-weight: normal;\">•\tA professional team of highly trained technicians constantly monitor our stations and their systems 24/7/365 to guarantee smooth operation of our     facilities.</span></div><div><span style=\"font-weight: normal;\">•\tAll our stations have dual tracking redundant telephone systems.\n</span></div><div><span style=\"font-weight: normal;\">•\tAll workstations are digitally recorded.\n</span></div><div><span style=\"font-weight: normal;\">•\tOur phone systems are always interlinked between stations.\n</span></div><div><span style=\"font-weight: normal;\">•\tAny incoming call can be answered in any of our 6 monitoring stations.\n</span></div><div><span style=\"font-weight: normal;\">•\tCalls can be tracked in real time\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Station Backup Features",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-aq"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "•\tA selection of APC 5kw Uninterruptible Power Supplies\n<div>•\tGenerators to supply power during outage\n</div><div>•\tEnough Receivers and equipment in stock to deploy a new station.\n</div><div>•\tOver 2000 liters of diesel fuel.\n</div><div>•\tEmergency supplies (including protective clothing, food and beverage supplies, blankets, cots and more).\n</div><div>•\tOUR EMERGENCY RESPONSE VEHICLE\n</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-ar"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Experience has always taught us to be prepared. Accordingly, Our Stations own and operates a fully equipped, diesel-powered 14-foot cube van filled with everything that might be needed in the event of an emergency at one of our stations. This vehicle is always ready to go on a minute’s notice.",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-as"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Besides the standard equipment for such a vehicle, ours features:\n</p><p>• Dual Heavy Duty 175-amp alternators.\n</p><p>• Dual 3 KW power inverters.\n</p><p>• An extra 100-litre diesel storage tank.\n</p><p>• 5kw Diesel Generator</p><p><br></p><p>Amongst the supplies it contains are:\r</p><p>• 2 High-speed, high-volume water pumps that can handle any threatened flood threat.\r</p><p>• A full supply of hand tools and power tools.\r</p><p>• Spare telephone equipment.\r</p><p>• Spare receiver equipment.\r</p><p>• Extra laptop computers.\r</p><p>• Emergency clothing such as vests, gloves, breathing masks, hard hats and safety boots.\r</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-at"
         },
         {
           "_tags": [
@@ -1999,7 +2090,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#cccccc"
+            "bgColor": "#efefef"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to Top</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\">Monitoring Services</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"palldiumsecurity.ca.html\" data-toolbar=\"-mbrBtnMove\">Home</a>"
         },
@@ -2025,7 +2116,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<h1>Profesional Response Service</h1><h4>Your language of choice can be accommodated.</h4><h4><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: 300; font-family: Arimo, sans-serif;\">Providing service in both of Canada’s official languages has always been part of the Palladium Standard. In addition, service for those who speak Cantonese/Mandarin is available. Since many of our operators are from ethnic backgrounds, other languages such as Greek, Arabic, Hebrew and others can often be served as well.</span></h4><div><br></div><h4>The sole function of our operators is to process incoming alarm signals.</h4><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Most monitoring stations require their operators to do data entry, make data edits, do filing of documents and/or do photocopying, perform administrative functions of one sort or another. We believe the monitoring of your account is JOB 1 – and that important job requires the full attention of our operators. Accordingly, tasks other than those that directly involve the monitoring of accounts are performed in other departments within theorganization</span><br></div><div><div><br><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Palladium Security Authorized Stations Operate in          6 separate monitoring stations that are linked together at all times. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network.</span><br></p><p><br></p><p>There is an advantage of having stations from cost to coast is simple, Weather and other emergency conditions directly impacts how monitoring stataion operate. &nbsp;If a large storm goes through an area, It can knock out power, cause floods or even cause manditory evacuations. If any of these conditions occure in the area of the monitoring station, It will hamper the operation thus slowing down or even halting critical emergency dispatches. </p><p><br></p><p><a href=\"http://globalnews.ca/news/779383/blackout-2003-ontario-in-the-dark/\" target=\"_blank\">Blackout of North America</a>&nbsp;in 2003 caused north american eastern seaboard to go black for almost a week. &nbsp;This failure of the electical grid caused many lower end station to fail and be non responsive. &nbsp;The Palladium Security muti station solution ensures that this will not happen to our clients.</p></div></div>"
+          "text": "<h1>Professional Response Service\n</h1><div>Your language of choice can be accommodated.\n</div><div>Providing service in both of Canada’s official languages has always been part of the Palladium Standard. In addition, service for those who speak Cantonese/Mandarin is available. Since many of our operators are from ethnic backgrounds, other languages such as Greek, Arabic, Hebrew and others can often be served as well.</div><div><br></div><div>\n</div><div>\n</div><div>The sole function of our operators is to process incoming alarm signals.\n</div><div>Most monitoring stations require their operators to do data entry, make data edits, do filing of documents and/or do photocopying, perform administrative functions of one sort or another. We believe the monitoring of your account is JOB 1 – and that important job requires the full attention of our operators. Accordingly, tasks other than those that directly involve the monitoring of accounts are performed in other departments within the organization</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>Palladium Security Authorized Stations Operate in 6 separate monitoring stations that are always linked together. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network.\n</div><div>\n</div><div>There is an advantage of having stations from coast to coast is simple, Weather and other emergency conditions directly impacts how monitoring station operate.  If a large storm goes through an area, It can knock out power, cause floods or even cause mandatory evacuations. If any of these conditions occur in the area of the monitoring station, It will hamper the operation thus slowing down or even halting critical emergency dispatches.\n</div><div>\n</div><div>Blackout of North America in 2003 caused the North American eastern seaboard to go black for almost a week.  This failure of the electrical grid caused many lower end stations to fail and be non-responsive.  The Palladium Security mufti station solution ensures that this will not happen to our clients.\n</div><div><br></div>"
         },
         {
           "_tags": [
@@ -2167,7 +2258,7 @@
       "settings": {
         "title": "Police Response Policies",
         "meta_descr": "How authorities respond to the security system activation.",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -2183,7 +2274,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/gold_security-1-800x800.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2211,7 +2302,7 @@
             }
           },
           "title": "Police False Alarm Policies",
-          "text": "Palladium Security will supply you with your local police false alarm police within your private poral, These false alarm policies change from region to region and the cost of responce will very depending on municipality.  Please contact Palladium Securirity Systems for more information or visit your local regional police website, Search for the term, \"false alarm policy\"&nbsp;<br>",
+          "text": "Palladium Security will supply you with your local police false alarm policy within your private poral, these false alarm policies change from region to region and the cost of response will vary depending on municipality. <br>\n<br>Please contact Palladium Security Systems for more information or visit your local regional police website, Search for the term, \"false alarm policy\" &nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Response.html#msg-box3-27\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -2391,7 +2482,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>Response costs can easily be reduced by following a few simple procedures. </p><p><br></p><p>\n</p><p>1.\tRegister with your municipal police department. Most police departments have a voluntary registration, this may have an annual fee attached to it but it will offer a lower response fee, some give the first response free.</p><p><br></p><p>\n</p><p>\n</p><p>2.\t<a href=\"page15.html#header6-ai\">Look at a private guard company.</a> Some offer an annual fee or a monthly discounted fee for a predetermined amount of dispatches.</p><p><br></p><p>\n</p><p>\n</p><p>3.\tHave our station call the complete call list to authorize the dispatch. Chances are that one of the contacts will be aware of any false alarms due to recent activity at the location and cancel the alarms dispatch.</p><p><br></p><p>\n</p><p>\n</p><p>4.\tHave us program a cancel code in the alarm system. This will notify our station that you have disarmed the system and the alarm should not be dispatched. Our station will still contact you to verify the cause of the alarm.\n</p><p>\n</p><p><br></p><p>5.\tCross zone or double hit programing, some alarm systems allow you to use this technology to verify alarms. If two different areas of protection send a signal within a certain time, our station will consider this a true alarm and dispatch. If only one of the two areas trip without the second going into alarm, our station will only use the call list to report the alarm without a dispatch.\n</p><p>\n</p><p><br></p><p>6.\tVideo verification, Palladium can install an web enabled camera in the protected area. In the case of an alarm, our station can remotely look at the live video feed and decide if a response is required.\n</p><p>\n</p><p><br></p><p>7.\tEnsure that an up to date call list is supplied to our monitoring station. Cell phone numbers to authorized people are efficient ways of determining if you would want a dispatch.\n</p><p>\n</p><p><br></p><p>8.\tThe Palladium Interactive Service will allow live emails of all alarms to transmit to your mobile device. This will allow you to be alerted of any alarms and then react before our monitoring station dispatches.\n</p><p><br></p>",
+          "text": "<p>Response costs can easily be reduced by following a few simple procedures.\n</p><p>\n</p><p>1.\tRegister with your municipal police department. Most police departments have a voluntary registration, this may have an annual fee attached to it but it will offer a lower response fee, some give the first response free.</p><p><br></p><p>\n</p><p>\n</p><p>2.\tLook at a private guard company. Some offer an annual fee or a monthly discounted fee for a predetermined amount of dispatches.&nbsp;</p><p><br></p><p>\n</p><p>3.\tHave our station call the complete call list to authorize the dispatch. Chances are that one of the contacts will be aware of any false alarms due to recent activity at the location and cancel the alarms dispatch.&nbsp;</p><p><br></p><p>\n</p><p>4.\tHave us program a cancel code in the alarm system. This will notify our station that you have disarmed the system and the alarm should not be dispatched. Our station will still contact you to verify the cause of the alarm.&nbsp;<br></p><p>\n</p><p><br></p><p>5.\tCross zone or double hit programing, some alarm systems allow you to use this technology to verify alarms. If two different areas of protection send a signal within a certain time, our station will consider this a true alarm and dispatch. If only one of the two areas trip without the second going into alarm, our station will only use the call list to report the alarm without a dispatch.&nbsp;<br></p><p>\n</p><p><br></p><p>6.\tVideo verification, Palladium can install an web enabled camera in the protected area. In the case of an alarm, our station can remotely look at the live video feed and decide if a response is required.&nbsp;<br></p><p>\n</p><p><br></p><p>7.\tEnsure that an up to date call list is supplied to our monitoring station. Cell phone numbers to authorized people are efficient ways of determining if you would want a dispatch.&nbsp;<br></p><p>\n</p><p><br></p><p>8.\tThe Palladium Interactive Service will allow live emails of all alarms to transmit to your mobile device. This will allow you to be alerted of any alarms and then react before our monitoring station dispatches.</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2540,7 +2631,7 @@
       "settings": {
         "title": "Palladium Interactive Services",
         "meta_descr": "New Installations of Security Systems and Services for integrating smart home mobile device control",
-        "order": 6,
+        "order": 7,
         "html_before": ""
       },
       "components": [
@@ -3582,7 +3673,7 @@
               "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#0b0009"
             },
             ".bg-color.transparent .link": {
               "color": "#eaeaea",
@@ -3708,7 +3799,7 @@
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "text": "<p>If you are considering a new security system for your home for the first time, you can be rest assured that Palladium will put its 23 years of security industry experience to work for you. Palladium offers the latest in security system technology and you can take advantage of the savings and bundles offered exclusively through Palladium Security.</p><p><br></p><p>Customized Security Solutions to Meet Your Specific Requirments.&nbsp;</p><p><br></p><p>At Palladium, our goal is to ensure that we deliver exactly the kind of security for your home that will meet your specific needs. We recognize that no two homes are exactly the same and every home owner has different expectations of what they would like their security system to do for their families.</p><p><br></p><p>A security expert will arrange a convenient time to visit your premises to do a complete security analysis to address any specific challenges that need to be addressed as well as to access your specific security requirements for your family.&nbsp;</p><p><br></p><p>We will then provide you with a written customized and detailed proposal outlining all our recommendations and options including the type of security system, number of sensors, door contacts, monitoring, keypads, etc. along with optional upgrades to further enhance your security protection.</p><p><br></p><p>To get started with a FREE complimentary security analysis of your home, give us a call or fill in our convenient form and our security expert will contact you to arrange a time. <a href=\"about_Us.html\">Click here to contact us</a>!   Give us a call and start saving!.</p>",
+          "text": "<p>If you are considering a new security system for your home for the first time, you can be rest assured that Palladium will put its 23 years of security industry experience to work for you. Palladium offers the latest in security system technology and you can take advantage of the savings and bundles offered exclusively through Palladium Security.</p><p><br></p><p>\n</p><p>\n</p><p>Customized Security Solutions to Meet Your Specific Requirements.</p><p><br></p><p> \n</p><p>\n</p><p>At Palladium, our goal is to ensure that we deliver exactly the kind of security for your home that will meet your specific needs. We recognize that no two homes are the same and every home owner has different expectations of what they would like their security system to do for their families.\n</p><p>\n</p><p>A security expert will arrange a convenient time to visit your premises to do a complete security analysis to address any specific challenges that need to be addressed as well as to access your specific security requirements for your family.</p><p><br></p><p> \n</p><p>\n</p><p>We will then provide you with a written customized and detailed proposal outlining all our recommendations and options including the type of security system, number of sensors, door contacts, monitoring, keypads, etc. along with optional upgrades to further enhance your security protection.</p><p><br></p><p>\n</p><p>\n</p><p>To get started with a FREE complimentary security analysis of your home, give us a call or fill in our convenient form and our security expert will contact you to arrange a time. <a href=\"about_Us.html\">Click here to contact us</a>!   Give us a call and start saving!.</p>",
           "_styles": {
             "P": {
               "text-align": "left"
@@ -4698,17 +4789,17 @@
           },
           "title1": "<a href=\"page12.html#msg-box5-8e\">6 Locations Across Canada</a>",
           "subtitle1": "",
-          "caption1": "Palladium Security Authorized Stations Operate in 6 separate monitoring stations that are always linked together. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network.<br><br>",
+          "caption1": "Palladium Security &nbsp;6 separate Authorized Stations that are always operating as one station. Located across Canada, these six stations are each capable of operating in a stand-alone mode, or as is normally the case, as part of our inter-connected network.<br><br>",
           "title2": "<a href=\"page12.html#msg-box5-8d\">e-mail notifications</a>",
           "subtitle2": "",
           "caption2": "Our e-mail notification service will allow specified users to receive alerts from our station.  These alerts can be custom set to send alarms only, opening or closing and trouble conditions. So you are always in touch with your home or business. \n<br>\n<br>Click below for more information&nbsp;<br>",
           "title3": "<a href=\"page12.html#msg-box5-8f\">Self Maintained Client Portal</a>",
           "subtitle3": "",
           "caption3": "Palladium security has integrated two portals to help its customers communicate with us and to also offer a convenient way of updating and viewing your security response contacts.  All your false alarm policies, user manuals are all stored in this location.&nbsp;<br><br>",
-          "title4": "Multicultural Monitoring service",
+          "title4": "<a href=\"page12.html#msg-box5-8g\">Multicultural Monitoring service</a>",
           "subtitle4": "",
           "caption4": "We recognize that Canada is a mutilcultural country and some of our clients are more comfortable speaking in their home language&nbsp;<br><br>Palladium will try to accomodate feature to our clients.&nbsp;<br><br><br>",
-          "title5": "Private Guard Responce&nbsp;",
+          "title5": "<a href=\"page15.html#header6-ai\">Private Guard Responce&nbsp;</a>",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Palladium Security has RSPNDR guard service as our primary Private Guard Responce Company.&nbsp;<br><br>Thir unique dispatch and trackins system allows us to ensure the fastes response possible*<br><br>",
           "title6": "Host Anywhere",
@@ -5132,7 +5223,7 @@
               "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#0b0009"
             },
             ".bg-color.transparent .link": {
               "color": "#eaeaea",
@@ -5267,7 +5358,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f1e1e1",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5298,7 +5389,7 @@
             }
           },
           "title": "ULC Monitoring Services",
-          "text": "Palladium Security Authorized Stations Operate in 6 separate locations that are linked together at all times. Located across Canada, these six stations are each capable of operating in a stand-alone mode or as is normally the case, as part of our inter-connected network.",
+          "text": "Palladium Security Authorized Stations Operate in 6 separate locations that are always linked together . Located across Canada, these six stations are each capable of operating in a stand-alone mode or as is normally the case, as part of our inter-connected network.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\">Mointoring Centre</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to top</a>",
           "_tags": [
             "Theme"
@@ -5359,7 +5450,7 @@
             }
           },
           "title": "Security Solutions for<br>your Business",
-          "text": "Our selection of security products ranges from 6 points of protection all the way up to 128 points.  This means that we can design a system that will fit any size home. \n<br>\n<br>Keypads from our line of full LCD to the standard icon keypads will give you all the information needed to control your system with ease. &nbsp;<br>",
+          "text": "Our business packages can be built to suite any size of establishment.  We use both Paradox and DSC thus allowing us to ensure that your needs are met.  \n<br>\n<br>Our business packages can include basic security intrusion such as employee door, customer door and interior motions all the way to fully integrated intrusion security with card access and video capture.\n<br>&nbsp;<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Product VIdeos.html\" data-toolbar=\"-mbrBtnMove\">Product Videos</a>",
           "_tags": [
             "Theme"
@@ -5385,7 +5476,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f1e1e1",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5416,7 +5507,7 @@
             }
           },
           "title": "Networked<br>Camera Systems",
-          "text": "Carbon monoxide is not detectable by any of the human scences. &nbsp;This colourless and odourless gas can be fatal when inhaled over a long period of time. &nbsp;If you have any wood burning stoves, gas furnace / gas stove or fire place in your home. &nbsp;A carbon monoxide detector is an essential part of your family protection. &nbsp;",
+          "text": "A full range of cameras can be added to any business security solution. &nbsp;Depending on our clients needs. We can add a basic 4 camera system to cover simple enterace points or we can offer an expanded fully networked camera system that will allow fo remote video alarm verification and access card verification.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to top</a>  ",
           "_tags": [
             "Theme"
@@ -5477,7 +5568,7 @@
             }
           },
           "title": "Access Control Systems",
-          "text": "For greater peace-of-mind and security, Palladium Security can include wireless smoke detectors to any existing or new security system for added fire protection.  \n<br>\n<br>Your premises can be monitored for smoke detection that will instantly alert your local fire department for quick action as well as call you and/or other contacts. &nbsp;This swift reaction from our authorizes monitoring station can save lives as well as minimize damage.",
+          "text": "Access to your business may require a bit more than just a key.  Our business access system can be fully integrated into most existing alarm systems. <br><br> The Palladium Integrated package is built with a security and access system tied together.  This combined with our email verification system will give any business the complete control of granting access only to those that require it. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to top</a>",
           "_tags": [
             "Theme"
@@ -5940,7 +6031,7 @@
       "settings": {
         "meta_descr": "information on the use and benifets of our secure clint hub portal",
         "title": "Hub Info",
-        "order": 13,
+        "order": 14,
         "header_custom": "",
         "footer_custom": ""
       },
@@ -6723,21 +6814,24 @@
         }
       ]
     },
-    "page15.html": {
+    "guard_response.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Guard Services",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#1634dd",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "60px"
             },
             ".mbr-section-text": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "22px"
             }
           },
@@ -6747,7 +6841,7 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "60",
+            "imageSize": "61",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
@@ -6758,8 +6852,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#efefef",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#dbc2c2",
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -6780,8 +6874,8 @@
             }
           },
           "title": "RSPNDR",
-          "text": "Palladium Security has teamed up with RSPNDR to provide the best possibe guard responce service in the industry.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page15.html#content1-aj\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page15.html#content1-aj\" data-toolbar=\"-mbrBtnMove\">How It Works</a>",
+          "text": "Palladium Security has teamed up with RSPNDR to provide the best possible guard response service in the industry. <br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page15.html#content1-aj\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page15.html#content1-aj\" data-toolbar=\"-mbrBtnMove\">How It Works</a>",
           "_tags": [
             "Theme"
           ],
@@ -6794,7 +6888,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>\n</p><p>Police alarm response over the years has been deprioritized due to the high percentage of false alarms within the security industry. Most false alarms are caused by user error and in some cases improper installation of detection devices by installers that are not properly trained. This results in the regional police forces placing alarm services at the lower priority or not responding at all.</p><p><br></p><p> \n</p><p>\n</p><p>This lower priority means that if you have an actual emergency, the response by the police may be longer then an acceptable timeframe.  The police will usually respond faster if the they have a verified personal injury alarm.</p><p><br></p><p>  \n</p><p>\n</p><p>The importance of RSPNDR has never been more critical.  Your can now benefit from this new platform with faster response time, verified perimeter checks of our premises and a detailed report with response times.  \n</p><p><br></p>",
+          "text": "<p>\n</p><p>Police alarm response over the years has been deprioritized due to the high percentage of false alarms within the security industry. Most false alarms are caused by user error and in some cases improper installation of detection devices by installers that are not properly trained. This results in the regional police forces placing alarm services at the lower priority or not responding at all.</p><p><br></p><p>\n</p><p>\n</p><p>This lower priority means that if you have an actual emergency, the response by the police may be longer then an acceptable timeframe. The police will usually respond faster if the they have a verified personal injury alarm.</p><p><br></p><p>\n</p><p>\n</p><p>The importance of RSPNDR has never been more critical. You can now benefit from this new platform with faster response time, verified perimeter checks of our premises and a detailed report with response times.\n</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],

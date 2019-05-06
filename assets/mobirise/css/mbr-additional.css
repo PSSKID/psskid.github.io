@@ -7,6 +7,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
 
@@ -1005,7 +1006,7 @@ h6,
 #menu-m .nav-dropdown-sm,
 #menu-m .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-m .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #0b0009;
 }
 #menu-m .bg-color.transparent .link {
   color: #eaeaea;
@@ -1200,13 +1201,13 @@ h6,
 #menu-2i .nav-dropdown-sm .link:hover,
 #menu-2i .nav-dropdown-sm .dropdown-item:focus,
 #menu-2i .nav-dropdown-sm .dropdown-item:hover {
-  background: #0a090a!important;
+  background: #000000!important;
 }
 #menu-2i .navbar,
 #menu-2i .nav-dropdown-sm,
 #menu-2i .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-2i .nav-dropdown-sm .dropdown-menu {
-  background: #121012;
+  background: #0b0009;
 }
 #menu-2i .bg-color.transparent .link {
   color: #eaeaea;
@@ -1244,6 +1245,10 @@ h6,
 #msg-box8-2k .mbr-section-title {
   font-size: 60px;
 }
+#header3-ap .mbr-section-title,
+#header3-ap .mbr-section-subtitle {
+  text-align: center;
+}
 #content1-30 DIV {
   text-align: left;
 }
@@ -1251,9 +1256,22 @@ h6,
   text-align: left;
 }
 #content1-30 H1 {
-  color: #2969b0;
+  color: #000000;
+  font-size: 20px;
 }
 #content1-30 UL {
+  text-align: left;
+}
+#header3-aq .mbr-section-title,
+#header3-aq .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-as .mbr-section-title,
+#header3-as .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-as .mbr-section-title {
+  font-size: 22px;
   text-align: left;
 }
 #content1-35 DIV {
@@ -1664,7 +1682,7 @@ h6,
 #menu-5x .nav-dropdown-sm,
 #menu-5x .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-5x .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #0b0009;
 }
 #menu-5x .bg-color.transparent .link {
   color: #eaeaea;
@@ -2068,7 +2086,7 @@ h6,
 #menu-8k .nav-dropdown-sm,
 #menu-8k .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-8k .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #0b0009;
 }
 #menu-8k .bg-color.transparent .link {
   color: #eaeaea;
@@ -2471,11 +2489,14 @@ h6,
   color: #3d8eb9;
 }
 
+
 #header6-ai .mbr-section-title {
-  color: #28262b;
+  color: #1634dd;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 60px;
 }
 #header6-ai .mbr-section-text {
-  color: #000000;
+  color: #ffffff;
   font-size: 22px;
 }
 #menu-ae .hide-buttons .nav-btn {
