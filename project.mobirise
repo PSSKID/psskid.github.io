@@ -6982,7 +6982,7 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "5",
             "paddingBottom": 1,
             "bgColor": "#efefef"
